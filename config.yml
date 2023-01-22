@@ -1,2 +1,5 @@
 theme: charlolamode
 baseURL: https://farzad-845.github.io
+title: 0xCircular
+params:
+  AuthorName: Circular Guy
