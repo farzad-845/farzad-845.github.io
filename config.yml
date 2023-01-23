@@ -5,3 +5,15 @@ params:
       author: Author's Name
       profileMode:
           title: Circular Guy
+          description: |
+                    Hello, I am Circular Guy,
+
+
+                    Examining stupid aspects of ~#Computers that prevent us from being "amateurs🪺"...
+      socialIcons:
+          - name: buymeacoffee
+            url: "https://www.buymeacoffee.com/0xCircular"
+          - name: twitter
+            url: "https://twitter.com/0xCircular"
+          - name: youtube
+            url: "https://www.youtube.com/@0xCircular"
