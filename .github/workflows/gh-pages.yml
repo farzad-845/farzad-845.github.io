@@ -25,10 +25,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: |
-          npm install postcss -D
-          npm install -g postcss-cli
-          npm install -g autoprefixer
+        run: npm install
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
