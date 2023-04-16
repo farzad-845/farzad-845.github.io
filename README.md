@@ -1,0 +1,1 @@
+Welcome to my blog where we delve into the fascinating world of computers and uncover the silly quirks that hinder us from being true "amateurs🪺." Join me as we explore the unexpected and often comical aspects of technology that make us scratch our heads in bewilderment.
