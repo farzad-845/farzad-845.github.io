@@ -1,0 +1,11 @@
+# Homepage Config
+isSinglePage = true
+
+# Meta Config
+description = "Hello"
+
+# Header Configuration
+avatar = "img/0xCircular-logo.jpg"
+
+[emoji]
+enableEmoji = true
