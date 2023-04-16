@@ -1,4 +1,4 @@
-baseURL = 'https://farzad-845.github.io/'
+baseURL = 'https://0xcircular.com/'
 copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 languageCode = 'en-us'
 theme = 'lowkey'
